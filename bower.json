@@ -1,0 +1,33 @@
+{
+  "name": "sample - gulp",
+  "authors": [
+    "Cheryl <cheryl@realsocial.com.au>"
+  ],
+  "description": "\"sample starter gulpfile for any website\"",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "\"starter",
+    "website\"",
+    "\"sass",
+    "css",
+    "js\""
+  ],
+  "license": "GNU",
+  "homepage": "\"http://real.social\"",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.5"
+  }
+}
